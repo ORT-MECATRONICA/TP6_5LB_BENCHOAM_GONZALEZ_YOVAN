@@ -1,3 +1,4 @@
+// Grupo 7 - Benchoam, gonzalez, yovan - 5LB
 #include <ld2410.h>
 
 // Definimos los pines para el puerto Serial2 del ESP32
